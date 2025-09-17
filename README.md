@@ -1,7 +1,5 @@
 # demo
 Ejemplo del uso de contenedores para el desarrollo de aplicaciones
-<<<<<<< HEAD
-=======
 
 ## ¿Cómo ejecutarlo?
 
@@ -39,4 +37,4 @@ docker run -d \
 ```
 
 3) Abrir la aplicación en el navegador con http://localhost:8000
->>>>>>> fc04619 (feat: archivos iniciales del app)
+
